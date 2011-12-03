@@ -7,41 +7,7 @@
   <version>1.2.3</version>
   <name>Scribe OAuth Library</name>
   <description>The best OAuth library out there</description>
-  <url>http://github.com/fernandezpablo85/scribe-java</url>
-
-  <parent>
-    <groupId>org.sonatype.oss</groupId>
-    <artifactId>oss-parent</artifactId>
-    <version>5</version>
-  </parent>
-
-  <developers>
-    <developer>
-      <id>fernandezpablo85</id>
-      <name>Pablo Fernandez</name>
-      <email>fernandezpablo85@gmail.com</email>
-      <timezone>-3</timezone>
-    </developer>
-    <developer>
-      <id>diegossilveira</id>
-      <name>Diego Silveira</name>
-      <email>diegossilveira@gmail.com</email>
-      <timezone>-3</timezone>
-    </developer>
-  </developers>
-
-  <licenses>
-    <license>
-      <name>MIT</name>
-      <url>http://github.com/fernandezpablo85/scribe-java/blob/master/LICENSE.txt</url>
-    </license>
-  </licenses>
-
-  <scm>
-    <connection>scm:http://github.com/fernandezpablo85/scribe-java.git</connection>
-    <developerConnection>scm:http://github.com/fernandezpablo85/scribe-java.git</developerConnection>
-    <url>http://github.com/fernandezpablo85/scribe-java.git</url>
-  </scm>
+  <url>https://github.com/rajithd/scribe-java</url>
 
   <dependencies>
     <dependency>
